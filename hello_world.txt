@@ -1,1 +1,4 @@
 This is my first time using Git.
+
+this is a test testing the commit feature in vs code 
+
